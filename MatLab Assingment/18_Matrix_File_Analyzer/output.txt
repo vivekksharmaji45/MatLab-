@@ -1,0 +1,10 @@
+47	85	96	32	
+45	86	96	54	
+21	36	25	47	
+Minimum Value : 21 at Position (3, 1)
+Maximum Value : 96 at Position (1, 3)
+Row 1 Sum : 260
+Row 2 Sum : 281
+Row 3 Sum : 129
+
+Highest Row Sum : 281 (Row 2)

@@ -1,0 +1,2 @@
+Value 58 found at first position: 5
+Total occurrences of 58: 1

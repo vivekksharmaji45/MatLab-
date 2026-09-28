@@ -1,0 +1,7 @@
+Original Number: 2567
+Number of Digits: 4
+Sum of Digits: 20
+Count of Even Digits: 2
+Count of Odd Digits: 2
+Reversed Number: 7652
+Is Palindrome: No

@@ -1,0 +1,5 @@
+Array: [ 45 63 98 74 52 36 ]
+
+Target Value     : 50
+First Index      : -1
+Total Occurrence : 0

@@ -1,0 +1,9 @@
+Array 1: [ 8 -6 0 4 -2 0 10 11 ]
+Array 2: [ -5 -12 3 -11 0 -8 5 9 ]
+
+Metric | Array 1 | Array 2
+Positive Count | 4 | 3
+Negative Count | 2 | 4
+Zero Count | 2 | 1
+Even Count | 7 | 3
+Odd Count | 1 | 5

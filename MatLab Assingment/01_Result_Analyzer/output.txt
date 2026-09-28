@@ -1,0 +1,6 @@
+Sum: 342 
+Average: 57 
+Highest: 96 
+Lowest: 20 
+Total Pass Student: 5 
+Total Fail Student: 1

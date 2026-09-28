@@ -1,0 +1,6 @@
+Name: Vivek Sharma | Status: Present
+Name: Mayank | Status: Absent
+Name: Shivansh | Status: Late
+Name: Rohit | Status: Present
+Name: Tarun | Status: Late
+Name: Raman | Status: Present
